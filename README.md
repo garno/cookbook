@@ -1,5 +1,5 @@
 # Cookbook
-An attempt to cook healtier meal from now on. Will probably be live at [cookbook.garno.me]().
+An attempt to cook healtier meal from now on. Will probably be live at [cookbook.garno.me](http://cookbook.garno.me).
 
 ## Deploy
 Upload `_site/` content in the following bucket:
