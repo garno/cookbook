@@ -25,7 +25,7 @@ date_lisible: Dimanche, le 3 novembre 2013
 
 3. Ajouter le lait et la soupe aux tomates et porter à ébullition.
 
-4. Faire mijoter à feu doux pendant 10 minutes jusqu'à ce que la sauce soit ébien épaisse.
+4. Faire mijoter à feu doux pendant 10 minutes jusqu'à ce que la sauce soit bien épaisse.
 
 ## Accompagnement.
 
