@@ -1,5 +1,3 @@
 permalink: /:year/:month/:title.html
 markdown: rdiscount
-#pygments: true
-#future: false
-exclude: TODO, Capfile, config.ru, vendor, Gemfile, Gemfile.lock, README.md
+exclude: TODO, config.ru, vendor, Gemfile, Gemfile.lock, README.md, .ruby-version
