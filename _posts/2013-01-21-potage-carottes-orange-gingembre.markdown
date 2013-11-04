@@ -30,3 +30,9 @@ date_lisible: Lundi, le 21 janvier 2013.
 4. Passer dans le mélangeur.
 
 5. Ajouter de la crème, sel et poivre au goût, commencer avec `2 c. à soupe`.
+
+## Conservation.
+
+Se conserve environ une semaine au frigidaire.
+
+Se conserve au congélateur pour environ 5 mois. **Ne pas ajouter la crème dans ce cas.**
