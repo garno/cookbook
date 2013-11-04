@@ -33,6 +33,5 @@ date_lisible: Lundi, le 21 janvier 2013.
 
 ## Conservation.
 
-Se conserve environ une semaine au frigidaire.
-
-Se conserve au congélateur pour environ 5 mois. **Ne pas ajouter la crème dans ce cas.**
+Se conserve environ une semaine au frigidaire et au congélateur pour environ 5 mois.
+**Ne pas ajouter la crème avant de congeler.**
