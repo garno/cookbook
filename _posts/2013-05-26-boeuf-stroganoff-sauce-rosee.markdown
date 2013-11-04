@@ -6,7 +6,7 @@ published: true
 date_lisible: Dimanche, le 26 mai 2013
 ---
 
-<img src="http://f.cl.ly/items/2s2g012L0y3c1h3j1L37/Capture%20d%E2%80%99%C3%A9cran%202013-05-26%20%C3%A0%2021.14.42.png" class="preview" />
+<img src="http://f.cl.ly/items/2A3d1n3t0r2A3I0F1V3J/boeuf-stroganoff.jpg" class="preview" />
 
 ## Nécessaire.
 * 200 g. de boeuf (haut de surlonge)
