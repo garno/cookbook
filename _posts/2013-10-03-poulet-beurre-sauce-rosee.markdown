@@ -27,6 +27,6 @@ date_lisible: Dimanche, le 3 novembre 2013
 
 4. Faire mijoter à feu doux pendant 10 minutes jusqu'à ce que la sauce soit ébien épaisse.
 
-## Accompagnement
+## Accompagnement.
 
 Servir sur lit de riz dans une assiette chaude avec pain naan chaud.
