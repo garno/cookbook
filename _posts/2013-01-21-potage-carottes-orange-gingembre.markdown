@@ -2,7 +2,6 @@
 layout: recipe
 title: Potage aux carottes
 more: parfumé à l'orange et au gingembre.
-type: entrees
 published: true
 date_lisible: Lundi, le 21 janvier 2013.
 ---

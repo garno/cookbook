@@ -2,7 +2,6 @@
 layout: recipe
 title: Poivrons farcis
 more: au boeuf et riz
-type: entrees
 published: true
 date_lisible: Dimanche, le 25 mai 2013
 ---

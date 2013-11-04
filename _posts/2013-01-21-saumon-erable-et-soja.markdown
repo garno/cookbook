@@ -2,7 +2,6 @@
 layout: recipe
 title: Filet de saumon
 more: soja et érable
-type: entrees
 published: true
 date_lisible: Lundi, le 21 janvier 2013.
 ---

@@ -2,7 +2,6 @@
 layout: recipe
 title: Boeuf stroganoff
 more: sauce rosée
-type: entrees
 published: true
 date_lisible: Dimanche, le 26 mai 2013
 ---
