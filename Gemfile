@@ -8,5 +8,12 @@ gem 'thin'
 gem 'liquid', '2.2.2'
 gem 'rdiscount'
 
+group :development do
+  gem 'dotenv'
+  gem 'fog'
+  gem 'mini_magick'
+  gem 'unf'
+end
+
 # Version 1.5.0 wasn't automatically regenerating anymore
 gem 'directory_watcher', '1.4.1'
