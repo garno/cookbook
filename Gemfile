@@ -9,6 +9,7 @@ gem 'liquid', '2.2.2'
 gem 'rdiscount'
 
 group :development do
+  gem 'hanzo'
   gem 'dotenv'
   gem 'fog'
   gem 'mini_magick'

@@ -24,6 +24,9 @@ GEM
       nokogiri (~> 1.5)
       ruby-hmac
     formatador (0.2.4)
+    hanzo (0.2.3)
+      highline (>= 1.6.19)
+    highline (1.6.20)
     jekyll (0.11.0)
       albino (>= 1.3.2)
       classifier (>= 1.3.1)
@@ -68,6 +71,7 @@ DEPENDENCIES
   directory_watcher (= 1.4.1)
   dotenv
   fog
+  hanzo
   jekyll (= 0.11.0)
   liquid (= 2.2.2)
   mini_magick
