@@ -6,7 +6,7 @@ published: true
 date_lisible: Lundi, le 21 janvier 2013.
 ---
 
-<img src="http://f.cl.ly/items/0t0E0D3V2P2r173V2N2n/Image%202013.01.21%2021:24:06.png" class="preview" />
+<img src="https://garno-cookbook.s3.amazonaws.com/pictures/potage-carottes-orange-gigembre.jpg" class="preview" />
 
 ## Nécessaire.
 * 1 c. à soupe d'huile de Canola

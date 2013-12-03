@@ -6,7 +6,7 @@ published: true
 date_lisible: Dimanche, le 26 mai 2013
 ---
 
-<img src="http://f.cl.ly/items/2A3d1n3t0r2A3I0F1V3J/boeuf-stroganoff.jpg" class="preview" />
+<img src="https://garno-cookbook.s3.amazonaws.com/pictures/boeuf-stroganoff.jpg" class="preview" />
 
 ## Nécessaire.
 * 200 g. de boeuf (haut de surlonge)

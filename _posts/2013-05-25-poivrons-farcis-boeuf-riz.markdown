@@ -6,7 +6,7 @@ published: true
 date_lisible: Dimanche, le 25 mai 2013
 ---
 
-<img src="http://f.cl.ly/items/1b2F14432b0m3t3w2k2r/Capture%20d%E2%80%99%C3%A9cran%202013-05-25%20%C3%A0%2016.48.15.png" class="preview" />
+<img src="https://garno-cookbook.s3.amazonaws.com/pictures/poivrons-farcis-boeuf-riz.jpg" class="preview" />
 
 ## Nécessaire.
 * 2 poivrons

@@ -1,9 +1,9 @@
 ---
 layout: recipe
-title: Poulet au beurre
-more: sauce rosée
+title: Quiche classique
+more: au jambon
 published: true
-date_lisible: Dimanche, le 3 novembre 2013
+date_lisible: Dimanche, le 10 novembre 2013
 ---
 
 <img src="https://garno-cookbook.s3.amazonaws.com/pictures/poulet-au-beurre-sauce-rosee.jpg" class="preview" />

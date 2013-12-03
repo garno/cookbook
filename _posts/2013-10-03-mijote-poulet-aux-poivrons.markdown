@@ -6,7 +6,7 @@ published: true
 date_lisible: Dimanche, le 3 novembre 2013
 ---
 
-<img src="http://f.cl.ly/items/2z1Z081K3k142B0E3y3N/mijote-poulet-et-poivrons.jpg" class="preview" />
+<img src="https://garno-cookbook.s3.amazonaws.com/pictures/mijote-poulet-et-poivrons.jpg" class="preview" />
 
 ## Nécessaire.
 * 2 poitrines de poulet désossées

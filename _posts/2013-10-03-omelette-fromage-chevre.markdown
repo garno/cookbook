@@ -6,7 +6,7 @@ published: true
 date_lisible: Dimanche, le 3 novembre 2013
 ---
 
-<img src="http://f.cl.ly/items/181W020V2W07150s3c31/omelette-fromage-chevre.jpg" class="preview" />
+<img src="https://garno-cookbook.s3.amazonaws.com/pictures/omelette-fromage-chevre.jpg" class="preview" />
 
 ## Nécessaire.
 * 2 oeufs
