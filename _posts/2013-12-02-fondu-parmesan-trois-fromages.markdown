@@ -14,7 +14,6 @@ date_lisible: Lundi, le 2 décembre 2013
 * 200 ml de fromage parmesan rapée
 * 200 ml de fromage gruyère rapée
 * ~~200 ml de fromage suisse~~ (75 ml de fromage mascarpone, voir commentaires)
-* 600 g. de poulet désossé sans la peau
 * 250 ml de farine non blanchie
 * 250 ml de chapelure
 * 1 tasse de lait
