@@ -170,7 +170,8 @@ blockquote {
   list-style-type: none;
   border: none;
   padding: 0;
-  margin: 20px 0;
+  margin: 20px auto;
+  width: 660px;
 }
 
 .clear {
@@ -178,7 +179,7 @@ blockquote {
 }
 
 .main-list li {
-  width: 380px;
+  width: 310px;
   margin: 5px 10px 5px 10px;
   line-height: 20px;
   padding: 10px;

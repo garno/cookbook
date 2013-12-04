@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Fondu parmesan
+title: Fondu parmesan maison
 more: aux trois fromages
 published: true
 waiting: 4
