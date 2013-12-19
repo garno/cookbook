@@ -3,12 +3,12 @@ layout: recipe
 title: Fondu parmesan maison
 more: aux trois fromages
 published: true
-waiting: 4
-preparation: 1
+cooking_time: 15m
+waiting_time: 4h
+preparation_time: 1h
 date_lisible: Lundi, le 2 décembre 2013
+image_url: https://garno-cookbook.s3.amazonaws.com/pictures/fondu-parmesan-trois-fromages-maison.jpg
 ---
-
-<img src="https://garno-cookbook.s3.amazonaws.com/pictures/fondu-parmesan-trois-fromages-maison.jpg" class="preview" />
 
 ## Nécessaire.
 * 200 ml de fromage parmesan rapée

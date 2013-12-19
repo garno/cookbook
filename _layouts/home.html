@@ -4,12 +4,13 @@
 <head>
   <meta name="robots" content="noindex">
   <link rel="stylesheet" href="/css/main.css" type="text/css" media="screen" charset="utf-8">
+  <link href='http://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-  {{ if page.more }}
+  {% if page.more %}
     <title>{{ page.title }} {{ page.more }} &mdash; garno.me</title>
-  {{ else }}
+  {% else %}
     <title>{{ page.title }} &mdash; garno.me</title>
-  {{ end }}
+  {% endif %}
 </head>
 
 <body>

@@ -4,9 +4,8 @@ title: Gnocchi
 more: maison
 published: true
 date_lisible: Dimanche, le 3 novembre 2013.
+image_url: https://garno-cookbook.s3.amazonaws.com/pictures/gnocchi-maison.jpg
 ---
-
-<img src="https://garno-cookbook.s3.amazonaws.com/pictures/gnocchi-maison.jpg" class="preview" />
 
 ## Nécessaire.
 * 3 pommes de terre Russet (ou Idaho)

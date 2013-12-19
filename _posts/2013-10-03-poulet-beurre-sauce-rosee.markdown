@@ -4,9 +4,8 @@ title: Poulet au beurre
 more: sauce rosée
 published: true
 date_lisible: Dimanche, le 3 novembre 2013
+image_url: https://garno-cookbook.s3.amazonaws.com/pictures/poulet-au-beurre-sauce-rosee.jpg
 ---
-
-<img src="https://garno-cookbook.s3.amazonaws.com/pictures/poulet-au-beurre-sauce-rosee.jpg" class="preview" />
 
 ## Nécessaire.
 * 600 g. de poulet désossé sans la peau

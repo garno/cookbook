@@ -4,9 +4,8 @@ title: Potage aux carottes
 more: parfumé à l'orange et au gingembre.
 published: true
 date_lisible: Lundi, le 21 janvier 2013.
+image_url: https://garno-cookbook.s3.amazonaws.com/pictures/potage-carottes-orange-gigembre.jpg
 ---
-
-<img src="https://garno-cookbook.s3.amazonaws.com/pictures/potage-carottes-orange-gigembre.jpg" class="preview" />
 
 ## Nécessaire.
 * 1 c. à soupe d'huile de Canola

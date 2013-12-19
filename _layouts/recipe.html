@@ -2,12 +2,27 @@
 layout: home
 ---
 
-<a href="/">← Retour aux oeuvres culinaires.</a>
+<a href="/" class="back">← Retour aux oeuvres culinaires.</a>
 <article>
+  <div class="info-column">
+    <img src="{{ page.image_url }}" class="preview" />
+
+    {% if page.preparation_time %}
+      <p><span class="time">{{ page.preparation_time }}</span> de préparation</p>
+    {% endif %}
+
+    {% if page.cooking_time %}
+      <p><span class="time">{{ page.cooking_time }}</span> de cuisson</p>
+    {% endif %}
+
+    {% if page.waiting_time %}
+      <p><span class="time">{{ page.waiting_time }}</span> d'attente</p>
+    {% endif %}
+  </div>
+
   <header>
     <h1>{{ page.title }}</h1>
     <h3>{{ page.more }}</h3>
   </header>
-
   {{ content }}
 </article>

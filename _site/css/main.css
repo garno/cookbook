@@ -30,14 +30,9 @@ header {
   border-bottom: 1px solid #eee;
 }
 
-header h1 {
-  display: inline;
-}
-
 header h3 {
   color: #ccc;
-  font-size: 60%;
-  display: inline;
+  font-size: 18px;
 }
 
 header p {
@@ -48,21 +43,9 @@ header p {
 
 article header {
   text-align: left;
-  width: 100%;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 35px 0 0 0;
+  width: 64.7%;
   font-size: 150%;
-}
-
-article header img {
-  float: right;
-  position: relative;
-  top: -20px;
-  right: -10px;
-}
-
-h1 {
-  margin: 0;
 }
 
 h1 a {
@@ -71,13 +54,14 @@ h1 a {
 }
 
 h1 {
+  font-size: 33px;
   display: block;
-  margin: 10px 0 0 0;
+  margin: 10px 7px 0 0;
 }
 
 h2 {
-  margin: 20px 0 0 0;
-  font-size: 160%;
+  margin: 40px 0 -5px 0;
+  font-size: 27px;
 }
 
 h4 {
@@ -150,13 +134,24 @@ pre {
 }
 
 ul {
+  width: 60%;
   line-height: 25px;
+  list-style-type: none;
   padding-left: 15px;
   padding-top: 5px;
+  border-left: 5px solid rgba(89, 135, 180, 0.2);
+}
+
+ol {
+  padding: 0 0 0 25px;
+}
+
+ol > li {
+  margin: 5px 0;
 }
 
 ol p {
-  margin: 5px 0;
+  margin: 0 0;
 }
 
 blockquote {
@@ -180,7 +175,7 @@ blockquote {
 
 .main-list li {
   width: 310px;
-  margin: 5px 10px 5px 10px;
+  margin: 10px;
   line-height: 20px;
   padding: 10px;
   float: left;
@@ -205,10 +200,9 @@ footer #ornement {
 }
 
 img.preview {
-  width: 250px;
-  border: 1px solid #eee;
-  padding: 5px;
-  float: right;
+  width: 275px;
+  padding: 3px;
+  border: 1px solid rgba(221, 230, 239, 1);
 }
 
 span.date {
@@ -222,4 +216,33 @@ span.date {
 #about p {
   font-size: 140%;
   text-align: center
+}
+
+.back, .main-list li {
+  padding-bottom: 5px;
+  border-bottom: 5px solid #ffffff;
+}
+
+.back:hover, .main-list li:hover {
+  text-decoration: none;
+  border-color: rgba(221,230,239, 1);
+}
+
+.main-list a:hover {
+  text-decoration: none;
+}
+
+.info-column {
+  float: right;
+  text-align: right;
+  margin-top: -115px;
+}
+
+.info-column img {
+  margin-bottom: 15px;
+}
+
+.info-column p {
+  margin: 5px 0;
+  padding: 0 5px;
 }

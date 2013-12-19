@@ -4,9 +4,8 @@ title: Poivrons farcis
 more: au boeuf et riz
 published: true
 date_lisible: Dimanche, le 25 mai 2013
+image_url: https://garno-cookbook.s3.amazonaws.com/pictures/poivrons-farcis-boeuf-riz.jpg
 ---
-
-<img src="https://garno-cookbook.s3.amazonaws.com/pictures/poivrons-farcis-boeuf-riz.jpg" class="preview" />
 
 ## Nécessaire.
 * 2 poivrons

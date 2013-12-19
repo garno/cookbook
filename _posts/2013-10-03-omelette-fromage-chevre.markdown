@@ -4,9 +4,8 @@ title: Omelette
 more: fromage de chèvre
 published: true
 date_lisible: Dimanche, le 3 novembre 2013
+image_url: https://garno-cookbook.s3.amazonaws.com/pictures/omelette-fromage-chevre.jpg
 ---
-
-<img src="https://garno-cookbook.s3.amazonaws.com/pictures/omelette-fromage-chevre.jpg" class="preview" />
 
 ## Nécessaire.
 * 2 oeufs

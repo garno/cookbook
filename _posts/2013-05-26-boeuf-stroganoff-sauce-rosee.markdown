@@ -4,9 +4,8 @@ title: Boeuf stroganoff
 more: sauce rosée
 published: true
 date_lisible: Dimanche, le 26 mai 2013
+image_url: https://garno-cookbook.s3.amazonaws.com/pictures/boeuf-stroganoff.jpg
 ---
-
-<img src="https://garno-cookbook.s3.amazonaws.com/pictures/boeuf-stroganoff.jpg" class="preview" />
 
 ## Nécessaire.
 * 200 g. de boeuf (haut de surlonge)
