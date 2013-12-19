@@ -5,7 +5,11 @@
   <meta name="robots" content="noindex">
   <link rel="stylesheet" href="/css/main.css" type="text/css" media="screen" charset="utf-8">
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-  <title>{{ page.title }} &mdash; garno.me</title>
+  {{ if page.more }}
+    <title>{{ page.title }} {{ page.more }} &mdash; garno.me</title>
+  {{ else }}
+    <title>{{ page.title }} &mdash; garno.me</title>
+  {{ end }}
 </head>
 
 <body>
