@@ -4,3 +4,6 @@ exclude: [TODO, config.ru, vendor, Gemfile, Gemfile.lock, README.md, .ruby-versi
 
 url: cookbook.garno.me
 google_analytics_id: 'UA-43959293-4'
+
+name: "@garno's cookbook"
+description: "Compilation de recettes que j'ai adorés."
