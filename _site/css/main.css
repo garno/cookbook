@@ -228,6 +228,10 @@ span.date {
   border-bottom: 5px solid #ffffff;
 }
 
+.back {
+  display: inline;
+}
+
 .back:hover, .main-list li:hover {
   text-decoration: none;
   border-color: rgba(221,230,239, 1);
