@@ -3,7 +3,7 @@ markdown: rdiscount
 exclude: [TODO, config.ru, vendor, Gemfile, Gemfile.lock, README.md, .ruby-version, scripts]
 
 url: cookbook.garno.me
-google_analytics_id: 'UA-43959293-4'
+google_analytics_id: 'UA-47708893-1'
 
 name: "@garno's cookbook"
 description: "Compilation de recettes que j'ai adorés."
