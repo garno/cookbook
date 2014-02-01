@@ -1,8 +1,14 @@
+* {
+  box-sizing:border-box
+}
+
 html {
   font-size: 62.5%;
 }
 
 html, body {
+  padding: 0;
+  margin: 0;
   height: 100%;
   font-family: 'HelveticaNeue-Light', sans-serif;
 }
@@ -17,7 +23,8 @@ h1, h2, h3, h4, h5 {
 
 section {
   margin: auto;
-  width: 800px;
+  max-width: 800px;
+  width: 90%;
   padding: 50px 15px 5px;
 }
 
@@ -166,7 +173,7 @@ blockquote {
   border: none;
   padding: 0;
   margin: 20px auto;
-  width: 660px;
+  width: 100%;
 }
 
 .clear {
@@ -174,10 +181,11 @@ blockquote {
 }
 
 .main-list li {
-  width: 310px;
-  margin: 10px;
+  width: 46%;
+  min-width: 250px;
   line-height: 20px;
-  padding: 10px;
+  margin: 10px 2%;
+  padding: 15px 0;
   float: left;
   box-sizing: border-box;
 }
@@ -219,7 +227,7 @@ span.date {
 }
 
 .back, .main-list li {
-  padding-bottom: 5px;
+  padding-bottom: 15px;
   border-bottom: 5px solid #ffffff;
 }
 
@@ -245,4 +253,14 @@ span.date {
 .info-column p {
   margin: 5px 0;
   padding: 0 5px;
+}
+
+@media (max-width: 600px) {
+  section {
+    padding: 0;
+  }
+
+  .main-list li {
+    width: 100%;
+  }
 }
