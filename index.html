@@ -5,12 +5,12 @@ title: Cookbook
 
 <ul class="main-list">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}" title="{{ post.title }}">
+    <a href="{{ post.url }}" title="{{ post.title }}">
+      <li>
         <h2>{{ post.title }}</h2>
         <h6>{{ post.more }}</h6>
-      </a>
-    </li>
+      </li>
+    </a>
   {% endfor %}
 </ul>
 

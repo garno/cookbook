@@ -223,7 +223,11 @@ span.date {
   text-align: center
 }
 
-.back, .main-list li {
+.back {
+  border-bottom: 5px solid #ffffff;
+}
+
+.main-list li {
   padding-bottom: 15px;
   border-bottom: 5px solid #ffffff;
 }
