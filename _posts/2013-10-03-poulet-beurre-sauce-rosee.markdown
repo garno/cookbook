@@ -10,8 +10,8 @@ image_url: https://garno-cookbook.s3.amazonaws.com/pictures/poulet-au-beurre-sau
 ## Nécessaire.
 * 600 g. de poulet désossé sans la peau
 * 3 c. à soupe de beurre
-* 1 c. à soupe de poudre de cari
-* 1 c. à soupe de poudre d'ail
+* 1½ c. à soupe de poudre de cari
+* 1½ c. à soupe de poudre d'ail
 * 284 ml de soupe condensée aux tomates
 * 284 ml de lait 2%
 * Poivre
